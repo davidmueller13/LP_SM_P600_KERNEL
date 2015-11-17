@@ -85,6 +85,7 @@ GTAGS
 *~
 \#*#
 arch/arm/mach-msm/smd_rpc_sym.c
+arch/arm/crypto/sha256-core.S
 boot.img
 build.sh
 flash.sh
